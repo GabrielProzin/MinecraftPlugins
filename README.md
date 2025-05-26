@@ -19,3 +19,5 @@ Este é um plugin simples criado com Java que registra eventos de **quebra** e *
 - IntelliJ IDEA
 
 ---
+
+## Você pode verificar os arquivos na branch **master**
