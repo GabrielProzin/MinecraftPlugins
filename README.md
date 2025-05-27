@@ -14,9 +14,10 @@ Este é um plugin simples criado com Java que registra eventos de **quebra** e *
 
 ## 📦 Tecnologias usadas
 
-- Java 17
+- Java
 - API Bukkit (PaperMC 1.21.5)
-- IntelliJ IDEA
+- Spigot API
+- Paper (para o servidor local)
 
 ---
 
